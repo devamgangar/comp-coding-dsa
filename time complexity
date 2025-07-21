@@ -1,0 +1,16 @@
+time taken!=time complexity
+rate at which tme taken increase wrt size of input
+Big O notation!
+O()
+
+rules:
+1)worst case scenario
+2)avoid constants
+3)avoid lower values
+
+space complexity!
+auxilary space(space that u use to solve the problem)+
+input space(space that u use to store the problem)
+
+1s = 10^8 operations
+2s= 2^10^8 operations
