@@ -1,0 +1,29 @@
+STACK
+//LIFO!! last in first out
+ //stack mai theres no indexing
+stack<int> st;
+st.push(1)//{1} //adds 1 to the top
+st.push(2);//{2,1}
+st.push(3);//{3,2,1}
+   
+   st.top()-> will give the top element
+   st.pop //removes the top element
+   st.size //size dega
+
+     
+QUEUE(FIFO-first in first out) imagine an actual queue
+ queue < int > q;
+    q.push(1) //{1} //adds 1 to the front
+    q.push(2); //{1,2}
+    queue.push(3); //{1,2,3}
+    q.back -> last element
+    q.front -> first element
+    q.pop() -> deletes first element
+
+    q.top() -> will give the top element
+    q.pop //removes the top element
+    q.size //size dega
+
+PRIORITY QUEUE
+      
+      
