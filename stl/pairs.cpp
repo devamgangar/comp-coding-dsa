@@ -24,3 +24,4 @@
         }
     };
     cout<<arr[2].second;
+//how to sort in pairs??
