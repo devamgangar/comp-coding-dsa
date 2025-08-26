@@ -4,7 +4,7 @@ using namespace std; //to avoid std!
 int main() {
     //output 
     
-	cout<<"hey"<<"\n"; //yes u gotta give the colons
+	cout<<"hey"<<'\n'; //yes u gotta give the colons
 	cout<<"hey"<<endl; //this works too
 
 //input
